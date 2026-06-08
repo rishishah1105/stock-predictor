@@ -1,0 +1,28 @@
+# API KEYS — never upload these
+.env
+.env.local
+secrets.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Saved ML models (too large for GitHub)
+*.pkl
+*.h5
+*.keras
+
+# Data files
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
