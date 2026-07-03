@@ -11,6 +11,7 @@
 |---------|------|-------|----------|
 | v0.1 | Week 3 | Price chart only | N/A |
 | v0.2 | Week 4 | Random Forest | 52.08% |
+| v0.3 | Week 5 | XGBoost + 10 features | 55.56% |
 
 ---
 
@@ -29,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 `Python 3.11` `yfinance` `Pandas` `NumPy` 
-`Matplotlib` `TA` `Scikit-learn`
+`Matplotlib` `TA` `Scikit-learn` `XGBoost`
 
 ---
 
